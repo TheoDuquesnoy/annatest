@@ -1,0 +1,41 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex e69de29..771b18a 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,11 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="fr">[m
+[32m+[m[32m    <head>[m
+[32m+[m[32m        <meta charset="UTF-8">[m
+[32m+[m[32m        <meta name="viewport" content="width=device-width , initial-scale=1.0">[m
+[32m+[m[32m        <title>Document</title>[m[41m [m
+[32m+[m[32m    </head>[m
+[32m+[m[32m    <body>[m
+[32m+[m[32m        <h1>Projet d'Anna</h1>[m
+[32m+[m[32m    </body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/index.js b/index.js[m
+[1mindex e69de29..54e6427 100644[m
+[1m--- a/index.js[m
+[1m+++ b/index.js[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mzdzadzadzadzadzad[m
+\ No newline at end of file[m
+[1mdiff --git a/readme.md b/readme.md[m
+[1mindex e69de29..5c5acd4 100644[m
+[1m--- a/readme.md[m
+[1m+++ b/readme.md[m
+[36m@@ -0,0 +1,12 @@[m
+[32m+[m[32m#Projet Anna[m
+[32m+[m[32mVoici le projet Anna_Test.[m
+[32m+[m[32mIl permet de tester le fonctionnement de **git**.[m
+[32m+[m
+[32m+[m[32m## Objectifs[m[41m [m
+[32m+[m[32mCette exploration doit permettre de réviser[m[41m [m
+[32m+[m[32m- [x] Markdown[m
+[32m+[m[32m- [x] HTML[m
+[32m+[m[32m- [x] JavaScript[m
+[32m+[m[32m- [ ] Emmet[m
+[32m+[m
+[32m+[m[32mMais également découvrir le fonctionnement de git.[m
